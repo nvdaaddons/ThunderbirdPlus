@@ -1,4 +1,40 @@
-[33mcommit 866cde9a5698a3f8bcc5278d75fa900a531b269c[m[33m ([m[1;36mHEAD -> [m[1;32mstable[m[33m, [m[1;31morigin/stable[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+[33mcommit c76f101a7dbc5772e55441594b449ad036b5f95a[m[33m ([m[1;36mHEAD -> [m[1;32mstable[m[33m)[m
+Author: Pierre-Louis R <plr.listes@rptools.org>
+Date:   Wed Jun 21 16:09:23 2023 +0200
+
+    V 4.8.3 Czech translation and NVDA.po fix
+
+[33mcommit c4d11560f025ac0457c6b8c0417ef88037b5300d[m[33m ([m[1;31mnvdaaddons/stable[m[33m)[m
+Author: Pierre-Louis R <plr.listes@rptools.org>
+Date:   Thu Jun 1 09:57:55 2023 +0200
+
+    V 4.8.2 Message reading with Space or F4 announces shortened links instead of clickable link
+
+[33mcommit 3068e05e17e6f0f3325d8abe4c940d0c154cdaef[m
+Author: Pierre-Louis R <plr.listes@rptools.org>
+Date:   Sat May 20 07:38:48 2023 +0200
+
+    V 4.8.1 Added 3 items in main menu, 3 messages in all NVDA.po, download URL   on addon store in all readme.md
+
+[33mcommit 516f6271f2c9e23415ee5ad07fc8c3cfd401b142[m
+Author: Pierre-Louis R <plr.listes@rptools.org>
+Date:   Tue May 16 09:55:28 2023 +0200
+
+    V 4.8.1 Added 3 items in main menu, 3 messages in all NVDA.po, download URL   on addon store in all readme.md
+
+[33mcommit f604d66e15e0130fe7fd37080aba600aa61a7175[m[33m ([m[1;33mtag: v4.8[m[33m)[m
+Author: Pierre-Louis R <plr.listes@rptools.org>
+Date:   Sat May 13 07:39:44 2023 +0200
+
+    V 4.8.0 Fix in notif.py and new stable link in all readme.md
+
+[33mcommit 54181f229fe81e510d03328cb1a3733e4904715d[m
+Author: Pierre-Louis R <plr.listes@rptools.org>
+Date:   Fri May 12 08:59:56 2023 +0200
+
+    V 4.7.3 Silent addon update after 1 confirmation
+
+[33mcommit 866cde9a5698a3f8bcc5278d75fa900a531b269c[m[33m ([m[1;31morigin/stable[m[33m)[m
 Author: Pierre-Louis R <plr.listes@rptools.org>
 Date:   Tue May 9 14:57:22 2023 +0200
 
@@ -10,7 +46,7 @@ Date:   Sat May 6 07:12:51 2023 +0200
 
     V 4.7 Fixes for big HTML mails and notifications display
 
-[33mcommit 8853a121d66c181cbb880852712a192712512d2c[m
+[33mcommit 8853a121d66c181cbb880852712a192712512d2c[m[33m ([m[1;31mnvdaaddons/main[m[33m)[m
 Author: Pierre-Louis R <plr.listes@rptools.org>
 Date:   Sun Apr 30 07:23:43 2023 +0200
 
